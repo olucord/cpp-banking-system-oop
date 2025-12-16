@@ -111,10 +111,9 @@ g++ -std=c++11 *.cpp -o banco
 # Executar o programa
 ./banco
 ```
+O arquivo ".main" comtém algumas aplicações práticas do código, com testes e comentários instrutivos. Você pode depois criar o seu próprio ".main".
 
 ## 💡 Exemplos de Uso
-
-O arquivo ".main" comtém algumas aplicações práticas do código, com testes e comentários instrutivos. Você pode depois criar o seu próprio ".main".
 
 ### Criando uma Conta e Realizando Operações
 
